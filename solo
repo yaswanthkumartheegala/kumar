@@ -1,7 +1,0 @@
-#!bash/bin
-echo "enter the number"
-read $number
-sleep 5
-echo "enter year"
-read $year 
-
